@@ -7,7 +7,7 @@ const Button = () => {
     messages: [
       {
         address:
-          "0:a6899d667f029f29061bf93fbc0dc0f55ded3569569d7a269d02de55ebeb88aa", // destination address
+          "0QAHHsAap0OqtLf-v385nfRJ0rU-8-vQtm3BefwfZDUWY_Tj", // destination address
         amount: "10000000", //Toncoin in nanotons
       },
     ],
